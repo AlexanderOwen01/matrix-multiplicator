@@ -9,11 +9,10 @@ wsl
 After that, these are the code execution: 
 
 ```
-- make run;
-- make clear;
-- make; ./main.out
-- make time;
-- make space;
+- make run
+- make clear
+- make time
+- make space
 ```
  
  # Time complexity:
