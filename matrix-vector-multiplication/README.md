@@ -1,4 +1,5 @@
-# Matrix and Vector Multiplication Results
+# Matrix and Vector Multiplication
+
 
 The command used in the new terminal is:
 
